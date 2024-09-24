@@ -1,6 +1,6 @@
 ## Hi there 👋
-
-[![GitHub Streak](https://streak-stats.demolab.com/ibnumalikmudzoparDenverCoder1)](https://git.io/streak-stats)
+My Statistic:\
+[![GitHub Streak](https://streak-stats.demolab.com?user=ibnumalikmudzopar&theme=highcontrast&hide_border=true)](https://git.io/streak-stats)
 
 <!--
 **ibnumalikmudzopar/ibnumalikmudzopar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
